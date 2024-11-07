@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 556.72 429.13">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .6em;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        letter-spacing: .52em;
+      }
+
+      .cls-4 {
+        letter-spacing: .14em;
+      }
+
+      .cls-5 {
+        font-family: PlaywriteNZ-Thin, 'Playwrite NZ';
+        font-size: 27px;
+        font-variation-settings: 'wght' 100;
+        font-weight: 200;
+      }
+
+      .cls-6 {
+        fill: #3a3937;
+      }
+
+      .cls-7 {
+        letter-spacing: .15em;
+      }
+
+      .cls-8 {
+        letter-spacing: .15em;
+      }
+
+      .cls-9 {
+        letter-spacing: .56em;
+      }
+
+      .cls-10 {
+        fill: #87937b;
+        font-family: AbrilFatface-Regular, 'Abril Fatface';
+        font-size: 61px;
+      }
+    </style>
+  </defs>
+  <text class="cls-10" transform="translate(22.87 298.49)"><tspan class="cls-7" x="0" y="0">Che</tspan><tspan class="cls-4" x="138.59" y="0">c</tspan><tspan class="cls-8" x="176.59" y="0">k</tspan></text>
+  <g>
+    <path class="cls-2" d="M75,369.94c11.63-15.78,23.58-31.11,35.75-46h-34.42c-.13,27.18-1.33,46-1.33,46Z"/>
+    <path class="cls-6" d="M5,127.94L0,140.94c-.19.47,32.39,5.41,43.45,93h28.52c-7.1-61.25-24.84-117.62-66.96-106Z"/>
+    <path class="cls-6" d="M75,369.94s1.2-18.82,1.33-46h-29.68c-.97,30.1-10.65,100-3.65,101s19,11,32-4,35.02-41.4,85.41-97h-49.66c-12.17,14.89-24.12,30.22-35.75,46Z"/>
+    <path class="cls-6" d="M483.53,109.94l-32.53-59s38-30,24,3,7,20,19,15S536-9.06,486,.94c0,0-147.92,84.44-294.25,233h52.69c63.13-65.4,132.31-131.55,185.56-168,0,0,8,33,45,91,0,0,17,30,3,39s-52-33-45-48c0,0-4-4-6,0s5,62,53,57,42.06-28,3.53-95Z"/>
+  </g>
+  <text class="cls-5" transform="translate(130.83 405.11)"><tspan class="cls-1" x="0" y="0">PH</tspan><tspan class="cls-3" x="79.95" y="0">O</tspan><tspan class="cls-9" x="121.72" y="0">T</tspan><tspan class="cls-1" x="157.52" y="0">OGRAPHY</tspan></text>
+</svg>

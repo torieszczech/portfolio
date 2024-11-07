@@ -1,0 +1,72 @@
+nav>a{
+    font-family: "Gravitas One", serif;
+    text-decoration: none;
+    color: darkseagreen;
+    margin: 2rem;
+}
+header{
+    text-align: center;
+    align-content:center;
+}
+article>img{
+    float: left;
+    margin: 1rem;
+}
+p{
+    margin: 1rem;
+}
+article{
+    display:inline-block;
+}
+
+main h2{
+    color: darkseagreen;
+    text-align: center;
+    font-family: "Gravitas One", serif; 
+    letter-spacing: .25rem;
+}
+#image-wrap{
+    width: 40%;
+    margin: 0 auto;
+    align-content: center;
+}
+img{
+    width: 40%;
+    padding: .25rem;
+}
+.logo{
+    width: 200px;
+}
+footer{
+    background-color: darkseagreen;
+    text-align: center;
+}
+.contact>h2{
+    color: white;
+}
+footer h2{
+    color: white;
+}
+footer{
+    color: white;
+    padding: 2rem;
+}
+@media (min-width:950px){
+    #image-wrap{
+        position:static;
+    }
+    .logo{
+        width: 300px;
+        padding: 1rem;
+    }
+}
+@media (min-width:1150px){
+    article>img{
+        width: 30%;
+    }
+}
+@media (min-width:1500px){
+    article>img{
+        width: 20%;
+    }
+}
